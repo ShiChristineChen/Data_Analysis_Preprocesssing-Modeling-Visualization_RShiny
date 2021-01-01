@@ -11,3 +11,4 @@ This is a complete data analysis project using R shiny.
 
 ## Output
 The report writes all the process in detail, please refer to the Doc folder.
+Shiny Visualization https://sch405.shinyapps.io/Data423_Assignment2_ShiChen/
