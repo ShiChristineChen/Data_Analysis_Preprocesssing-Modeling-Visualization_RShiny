@@ -10,5 +10,5 @@ This is a complete data analysis project using R shiny.
 5. Choose the best model and apply it to the test dataset then evaluate the model performance and interprete the model.
 
 ## Output
-The report writes all the process in detail, please refer to the Doc folder.
-Shiny Visualization https://sch405.shinyapps.io/Data423_Assignment2_ShiChen/
+1. The report writes all the process in detail, please refer to the Doc folder.
+2. Shiny Visualization https://sch405.shinyapps.io/Data423_Assignment2_ShiChen/
