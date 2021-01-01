@@ -7,7 +7,9 @@ This is a complete data analysis project using R shiny.
 3. Organize the preprocessing pipeline in a scientific way to meet the assumptions of the model.
 4. Using cross validation to do the model training.
 5. Model tuning.
-5. Choose the best model and apply it to the test dataset then evaluate the model performance and interprete the model.
+6. Choose the best model and apply it to the test dataset then evaluate the model performance and interprete the model.
+7. Use the reaction expressions in Shiny to perform user interaction work, which visually displays the influence of check boxes, sliders, and selectors on the model.
+
 
 ## Output
 1. The report writes all the process in detail, please refer to the Doc folder.
